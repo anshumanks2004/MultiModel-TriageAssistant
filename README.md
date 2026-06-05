@@ -60,8 +60,8 @@
 
 ## 🚀 Quick Start
 
-> Detailed, OS-specific guides live in [SETUP-Files/](SETUP-Files/):
-> [Windows](SETUP-Files/WINDOWS_SETUP.md) · [macOS](SETUP-Files/MacBook_SETUP.md)
+> Detailed, OS-specific guides live in [SETUP_Files/](SETUP_Files/):
+> [Windows](SETUP_Files/WINDOWS_SETUP.md) · [macOS](SETUP_Files/MacBook_SETUP.md)
 
 ### 1. Prerequisites
 
@@ -143,7 +143,7 @@ MultiModel-TriageAssistant/
 │   └── styles.py              # global CSS theme
 ├── utils/                     # validators, logger
 ├── docs/                      # project report & integration notes
-└── SETUP-Files/               # Windows & macOS setup guides
+└── SETUP_Files/               # Windows & macOS setup guides
 ```
 
 ---
